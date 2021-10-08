@@ -1,11 +1,8 @@
-*{
+html,body{
   padding: 0;
   margin: 0;
-}
-body{
-    box-sizing: border-box;
-    overflow-x: hidden;
-    background-color: #191E29;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 .navbar{
     text-transform: uppercase;
