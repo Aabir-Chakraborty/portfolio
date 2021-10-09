@@ -172,6 +172,20 @@ html,body{
       font-size: 7em;
   }
 }
+@media screen and (max-width: 550px) {
+  .heading-content{
+      position: absolute;
+      top: 10%;
+      width: 100%;
+      max-width: 100%;
+  }
+  .heading-content h5{
+      font-size: 2em;
+  }
+  .heading-content h1{
+      font-size: 3em;
+  }
+}
 @media screen and (max-width: 378px){
     .heading-content{
         position: absolute;
